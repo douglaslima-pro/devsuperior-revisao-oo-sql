@@ -14,6 +14,9 @@
 - Coleções (list, map)
 - Acessar dados em BD relacional e instanciar objetos correspondentes
 
+> [!NOTE]
+> Link da aula: [https://www.youtube.com/watch?v=xC_yKw3MYX4](https://www.youtube.com/watch?v=xC_yKw3MYX4)
+
 ## Pré-requisitos
 - Git
 - JDK
