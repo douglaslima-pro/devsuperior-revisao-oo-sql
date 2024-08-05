@@ -11,10 +11,7 @@
 .mtj.tmp/
 
 # Package Files #
-<<<<<<< HEAD
-=======
 *.jar
->>>>>>> 2f180d253c0bd23e5a48b52e6671fddc0c79709d
 *.war
 *.nar
 *.ear
@@ -24,13 +21,10 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
-<<<<<<< HEAD
 
 # Eclipse
-
 .settings
 /bin
 /target
-=======
+
 replay_pid*
->>>>>>> 2f180d253c0bd23e5a48b52e6671fddc0c79709d

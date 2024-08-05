@@ -1,4 +1,4 @@
-package service;
+package repository;
 
 import java.sql.Connection;
 import java.sql.ResultSet;
@@ -9,9 +9,9 @@ import java.util.LinkedHashMap;
 import java.util.List;
 import java.util.Map;
 
-import entities.Order;
-import entities.OrderStatus;
-import entities.Product;
+import entity.Order;
+import entity.OrderStatus;
+import entity.Product;
 
 public class OrderRepository implements Repository<Order> {
 

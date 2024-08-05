@@ -5,8 +5,8 @@ import java.sql.SQLException;
 import java.util.Scanner;
 
 import db.DB;
-import service.OrderRepository;
-import service.ProductRepository;
+import repository.OrderRepository;
+import repository.ProductRepository;
 
 public class Program {
 

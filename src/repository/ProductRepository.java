@@ -1,4 +1,4 @@
-package service;
+package repository;
 
 import java.sql.Connection;
 import java.sql.ResultSet;
@@ -8,7 +8,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Optional;
 
-import entities.Product;
+import entity.Product;
 
 public class ProductRepository implements Repository<Product> {
 	
